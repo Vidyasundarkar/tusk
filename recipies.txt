@@ -3,3 +3,6 @@ welcome to kitchen
 pasta
 kheer
 pizza
+
+paneer
+biryani
